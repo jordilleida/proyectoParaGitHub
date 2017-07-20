@@ -1,0 +1,2 @@
+#Ignorar los ejecutables del .java
+*.class
